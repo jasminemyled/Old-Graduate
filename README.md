@@ -1,2 +1,3 @@
 # Old-Graduate
 Old Maid Card Game
+Individual project using Java to code an interactive one-on-one card game with an AI opponent. The opponent is programmed to automatically match pairs recieved in its deck, pick up cards from the overall deck, and randomly choose a card from your deck every round.  The game utilizes arraylists and loops to change deck sizes upon a player's turn and randomize the cards in order to ensure uniqueness in each game. Once used, old cards are discarded from the deck arraylist until a new game starts. Similarly to real life Old Maid, if a player makes a mistake in matching the cards, the game will continue on. Focus, interaction, and luck are required to win this game.
